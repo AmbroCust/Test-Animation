@@ -25,7 +25,7 @@ class LottieScreen extends StatelessWidget {
       ),
       body: Center(
         child: Lottie.asset(
-          'assets/animations/lottie_animation.json',  // Путь к вашему файлу Lottie
+          'assets/animations/lottie_animation.json',
           width: 500,
           height: 500,
           fit: BoxFit.contain,
